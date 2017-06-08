@@ -1,0 +1,10 @@
+[package]
+name = "mailgun-server"
+version = "0.1.0"
+authors = ["Rudy <rudydeberry@hotmail.com>"]
+
+[dependencies]
+nickel = "*"
+rustc-serialize = "*"
+hyper = "~0.7"
+reqwest = "*"
